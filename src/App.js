@@ -7,6 +7,6 @@ function App() {
       <div className="container">
         <Table />
       </div>
-    );   
+    );
 }
 export default App;
